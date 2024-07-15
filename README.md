@@ -125,7 +125,7 @@ This app supports both dark mode and light mode. Users can switch between themes
 
 ### Settings Page
 
-![Settings Page](https://github.com/sahanHansaja026/Mobile-Templates---Flutter-/blob/main/image5.png)
+![Settings Page](https://github.com/sahan026/images/blob/main/flutter5.png)
 
 ## Contributing
 
