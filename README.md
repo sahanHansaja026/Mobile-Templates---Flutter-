@@ -2,7 +2,7 @@
 
 A new Flutter project designed to provide a starting point for developing a comprehensive mobile application. This project includes authentication features, reusable components, various pages, and theme management with support for both dark mode and light mode.
 
-![Home Page](https://github.com/sahanHansaja026/Mobile-Templates---Flutter-/blob/main/image4.png)
+![Home Page](https://github.com/sahan026/images/blob/main/flutter4.png)
 
 ## Getting Started
 
@@ -100,28 +100,28 @@ This app supports both dark mode and light mode. Users can switch between themes
 
 ### Light Mode
 
-![Light Mode](https://github.com/sahanHansaja026/Mobile-Templates---Flutter-/blob/main/image1.png)
+![Light Mode](https://github.com/sahan026/images/blob/main/flutter1.png)
 
 ### Dark Mode
 
-![Dark Mode](https://github.com/sahanHansaja026/Mobile-Templates---Flutter-/blob/main/image6.png)
+![Dark Mode](https://github.com/sahan026/images/blob/main/flutter6.png)
 
 ## Images
 
 ### Home Page
 
-![Home Page](https://github.com/sahanHansaja026/Mobile-Templates---Flutter-/blob/main/image3.png)
+![Home Page](https://github.com/sahan026/images/blob/main/flutter3.png)
 
 
 ### Login Page
 
-![Login Page](https://github.com/sahanHansaja026/Mobile-Templates---Flutter-/blob/main/image1.png)
+![Login Page](https://github.com/sahan026/images/blob/main/flutter1.png)
 
 ### Register Page
 
-![Register Page](https://github.com/sahanHansaja026/Mobile-Templates---Flutter-/blob/main/image2.png)
+![Register Page](https://github.com/sahan026/images/blob/main/flutter2.png)
 
-![Register Page](https://github.com/sahanHansaja026/Mobile-Templates---Flutter-/blob/main/image7.png)
+![Register Page](https://github.com/sahan026/images/blob/main/flutter7.png)
 
 ### Settings Page
 
